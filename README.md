@@ -112,3 +112,6 @@ The API documentation is included in the Postman collection (`Note App.postman_c
 - Backend: Render
 - Database: PostgreSQL on Render
 - Frontend: Netlify
+
+![image](https://github.com/user-attachments/assets/d02cde72-2dfe-42e3-9265-d04135043a54)
+
